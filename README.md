@@ -4,12 +4,12 @@
 Pixbetreact é um site de apostas com apenas 2 jogos que vão acontecer, a meta é acertar o placar para ganhar o valor na tabela.
 
 # FUNCIONAMENTO
-para participar o jogador deve colocar o numero de gol de cada time é clicar no botao a baixo. depois pagar uma taxa de aposta.
-claro isso deposi de o mesmo estar logado.
+para participar o jogador deve colocar o numero de gol de cada time é clicar no botão a baixo. depois pagar uma taxa de aposta.
+claro isso depois de o mesmo estar logado.
 
-o jogador tanbem vai poder ver se ganhou ou nao na dashboard é por la que ele vai ver o saldo oara saque.
+o jogador também vai poder ver se ganhou ou não na dashboard é por la que ele vai ver o saldo para saque.
 
-o site sera conectado ao firebase database.
+o site será conectado ao firebase database.
 
 # COBRANÇA
 A cobrança pelo palpite de jogo vai ser feita atravez da api do mercado pago
