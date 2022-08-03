@@ -25,21 +25,27 @@ O projeto esta em desenvolvimento precisando da api do mercado pago para funcion
 
 
 # LEIA COM ATENÇÃO
-Ajude-me a construir este site, não tenho conhecimento nessesario para isso. você pode me ajudar com os itens a baixo.
+Ajude#-me a construir este site, não tenho conhecimento nessesario para isso. você pode me ajudar com os itens a baixo na aba de implementação..
 
 
 # IMPLEMENTAÇÃO
-- Api do mercado pago
-- Login é Registro
-- Dashboard
-- painel administrador
-- Tela de para requisição de saque.
-- Coleta de jogos automática (webscraping)
-- Verificar qual usuario ganhou é colocar o saldo de R$: 50,00 na conta dele pra ele poder fazer o saque.
-- parar as apostas quando um dos confrontos iniciar (inicio de jogo)
-- criar outra aposta de jogo asim que uma aposta for fechada.
-- informar os usuariso que perderam ou ganharam via email.
-- Ranking de usuariso que mais acertam placar é seus ganhos
-- Possibilidade de mudar os valores do prêmio via painel administrador
+
+#-Api do mercado pago
+eu escolhi essa api em específico por ser do meu banco, é pode ser feita em node.js
+https://www.mercadopago.com.br/developers/pt/docs/checkout-api/integration-configuration/integrate-with-pix
+
+#- Login é Registro
+bom temos o layout mas não a parate do java script para a conexão com o firebase database
+
+#- Dashboard
+#- painel administrador
+#- Tela de para requisição de saque.
+#- Coleta de jogos automática (webscraping)
+#- Verificar qual usuario ganhou é colocar o saldo de R$: 50,00 na conta dele pra ele poder fazer o saque.
+#- parar as apostas quando um dos confrontos iniciar (inicio de jogo)
+#- criar outra aposta de jogo asim que uma aposta for fechada.
+#- informar os usuariso que perderam ou ganharam via email.
+#- Ranking de usuariso que mais acertam placar é seus ganhos
+#- Possibilidade de mudar os valores do prêmio via painel administrador
 
 
